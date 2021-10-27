@@ -1,0 +1,16 @@
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\bin\Debug\net5.0\GenerateurPhrases.exe
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\bin\Debug\net5.0\GenerateurPhrases.deps.json
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\bin\Debug\net5.0\GenerateurPhrases.runtimeconfig.json
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\bin\Debug\net5.0\GenerateurPhrases.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\bin\Debug\net5.0\GenerateurPhrases.dll
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\bin\Debug\net5.0\ref\GenerateurPhrases.dll
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\bin\Debug\net5.0\GenerateurPhrases.pdb
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\GenerateurPhrases.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\GenerateurPhrases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\GenerateurPhrases.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\GenerateurPhrases.AssemblyInfo.cs
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\GenerateurPhrases.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\GenerateurPhrases.dll
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\ref\GenerateurPhrases.dll
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\GenerateurPhrases.pdb
+C:\Users\alexi\source\repos\GenerateurPhrases\GenerateurPhrases\obj\Debug\net5.0\GenerateurPhrases.genruntimeconfig.cache
